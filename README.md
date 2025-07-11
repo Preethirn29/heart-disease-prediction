@@ -31,5 +31,16 @@ heart-disease-prediction/
 To install the necessary dependencies run:  
 ```bash  
 pip install -r requirements.txt
-```md
+```
 ## 🤖 LLM Assistance
+This project integrates a local LLM (Mistral via Ollama) to act as an intelligent assistant.  
+You can:
+	•	Ask questions about symptoms, health terms, or model outputs
+	•	Get explanations for risk factors
+	•	Learn more about heart conditions directly in the app  
+If Ollama isn’t available, you can modify the app to use OpenAI’s API instead.
+To use the AI assistant:  
+```bash
+ollama run mistral
+```
+
