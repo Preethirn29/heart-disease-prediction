@@ -82,10 +82,10 @@ This project was developed using a combination of powerful tools and technologie
    - Added a text area to query a local LLM using Ollama  
    - Used requests to communicate with the local Mistral model
 ## 🔮 Future Work
-- Improve UI for better user experience
-	•	Add multilingual support
-	•	Integrate real-time API for medical record input
-	•	Expand to include other cardiovascular diseases
-	•	Deploy to Hugging Face Spaces or Rend
+- Improve UI for better user experience  
+	•	Add multilingual support  
+	•	Integrate real-time API for medical record input  
+	•	Expand to include other cardiovascular diseases  
+	•	Deploy to Hugging Face Spaces or Render
 
 
