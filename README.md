@@ -28,6 +28,6 @@ heart-disease-prediction/
 ├── requirements.txt       
 └── README.md               
 ## ⚙️ Installation
-To install the necessary dependencies run:
+To install the necessary dependencies run:  
 '''bash
 pip install -r requirements.txt
