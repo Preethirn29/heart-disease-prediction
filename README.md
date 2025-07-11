@@ -18,9 +18,9 @@ Cardiovascular diseases are a leading cause of mortality worldwide. Timely detec
 • A user-friendly interface for non-technical users  
 • AI-driven explanations for better health awareness  
 ## Project Structure
-heart-disease-prediction/
+heart-disease-prediction/  
 │
-├── data/                   
+├── dataset.csv                  
 ├── main.py                 
 ├── cleaned_data.csv        
 ├── model.pkl               
