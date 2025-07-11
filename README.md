@@ -63,8 +63,8 @@ This project was developed using a combination of powerful tools and technologie
 ### 🛠 Implementation Steps  
 
 1. Data Preprocessing 
-   - Cleaned and removed nulls/outliers  
-   - Saved cleaned dataset to cleaned_data.csv
+- Cleaned and removed nulls/outliers
+- Saved cleaned dataset to cleaned_data.csv
 
 2. Model Training
    - Applied SMOTE to handle class imbalance  
@@ -87,5 +87,9 @@ This project was developed using a combination of powerful tools and technologie
 - Integrate real-time API for medical record input  
 - Expand to include other cardiovascular diseases  
 - Deploy to Hugging Face Spaces or Render
+## 🤝 Contributing
+Contributions are welcome! To contribute:  
+- Email: [preethirn29@gmail.com](#preethirn29@gmail.com)
+ 
 
 
