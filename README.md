@@ -26,7 +26,7 @@ heart-disease-prediction/
 ├── model.pkl               
 ├── scaler.pkl              
 ├── streamlit_app.py 
-├── Demonstration
+├── demonstration.mp4
 ├── requirements.txt       
 └── README.md               
 ## ⚙️ Installation
@@ -45,7 +45,6 @@ To use the AI assistant:
 ```bash
 ollama run mistral
 ```
-## 💻 Demonstration
 ## 🔨 How We Built It
 
 This project was developed using a combination of powerful tools and technologies to ensure accuracy, usability, and explainability.
