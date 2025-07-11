@@ -1,1 +1,1 @@
-## Heart Disease Prediction System
+## HEART DISEASE PREDICTION SYSTEM
