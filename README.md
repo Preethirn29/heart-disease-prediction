@@ -31,3 +31,5 @@ heart-disease-prediction/
 To install the necessary dependencies run:  
 ```bash  
 pip install -r requirements.txt
+```md
+## 🤖 LLM Assistance
