@@ -60,7 +60,7 @@ This project was developed using a combination of powerful tools and technologie
 | AI Assistant (LLM)    | Ollama (Mistral model)                        |
 | System Requirements   | Ollama (Optional), Python 3.8+, pip           |
 
-### 🛠 Implementation Steps
+### 🛠 Implementation Steps  
 
 1. Data Preprocessing 
    - Cleaned and removed nulls/outliers  
@@ -82,7 +82,7 @@ This project was developed using a combination of powerful tools and technologie
    - Added a text area to query a local LLM using Ollama  
    - Used requests to communicate with the local Mistral model
 ## 🔮 Future Work
-	•       Improve UI for better user experience
+- Improve UI for better user experience
 	•	Add multilingual support
 	•	Integrate real-time API for medical record input
 	•	Expand to include other cardiovascular diseases
