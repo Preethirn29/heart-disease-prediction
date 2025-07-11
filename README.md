@@ -62,24 +62,30 @@ This project was developed using a combination of powerful tools and technologie
 
 ### 🛠 Implementation Steps
 
-1. *Data Preprocessing*  
+1. Data Preprocessing 
    - Cleaned and removed nulls/outliers  
    - Saved cleaned dataset to cleaned_data.csv
 
-2. *Model Training*  
+2. Model Training
    - Applied SMOTE to handle class imbalance  
    - Trained Random Forest Classifier  
    - Saved model as model.pkl and scaler as scaler.pkl
 
-3. *Data Visualization*  
+3. Data Visualization 
    - Created heatmaps and boxplots for symptom analysis  
-   - Saved graphs to output/symptom_graphs/
 
-4. *Web Interface*  
-   - Built a Streamlit web app (app.py)  
+4. Web Interface 
+   - Built a Streamlit web app (streamlit_app.py)  
    - Allows users to input symptoms and get predictions
 
-5. *LLM Integration*  
+5. LLM Integration
    - Added a text area to query a local LLM using Ollama  
    - Used requests to communicate with the local Mistral model
+## 🔮 Future Work
+	•       Improve UI for better user experience
+	•	Add multilingual support
+	•	Integrate real-time API for medical record input
+	•	Expand to include other cardiovascular diseases
+	•	Deploy to Hugging Face Spaces or Rend
+
 
