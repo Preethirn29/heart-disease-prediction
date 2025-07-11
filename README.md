@@ -7,6 +7,7 @@ This heart disease prediction system uses advanced ML algorithms, symptom-based 
 - [Project Structure](#project-structure)
 - [Installation](#installation)
 - [LLM Assistant](#llm-assistant)
+- [Demonstration](#demonstration)
 - [How We Built It](#how-we-built-it)
 - [Future Work](#future-work)
 - [Contributing](#contributing)
@@ -24,7 +25,8 @@ heart-disease-prediction/
 ├── cleaned_data.csv        
 ├── model.pkl               
 ├── scaler.pkl              
-├── streamlit_app.py                
+├── streamlit_app.py 
+├── Demonstration
 ├── requirements.txt       
 └── README.md               
 ## ⚙️ Installation
@@ -43,6 +45,7 @@ To use the AI assistant:
 ```bash
 ollama run mistral
 ```
+## 💻 Demonstration
 ## 🔨 How We Built It
 
 This project was developed using a combination of powerful tools and technologies to ensure accuracy, usability, and explainability.
